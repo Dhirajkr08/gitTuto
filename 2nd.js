@@ -12,4 +12,4 @@ item[0].style.backgroundColor='red'
 
 var item=document.getElementsByTagName('li');
 console.log(item)
-item[4].textContent="practise"
+item[4].textContent="practise 1"
