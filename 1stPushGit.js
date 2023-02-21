@@ -1,2 +1,2 @@
-console.log('i love git')
-console.log('l love sharpner')
+console.dir(document)
+headerTitle.innerHTML="<h3>hello</h3>"
